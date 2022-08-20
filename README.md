@@ -1,5 +1,6 @@
 # Leetcode-Solution
 
+#### [My Leetcode profile](https://leetcode.com/AmyChang/)
 
 ### Study Plan - [Data Structure I](https://leetcode.com/study-plan/data-structure/?progress=fv6jie5)
 | # | Title     | Solution     | Difficulty |
