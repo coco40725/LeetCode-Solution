@@ -2,8 +2,8 @@
 
 
 ### Study Plan - [Data Structure I](https://leetcode.com/study-plan/data-structure/?progress=fv6jie5)
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title     | Solution     | Difficulty |
+|---| --------- | ------------ | ---------- |
 |217|[Contains Duplicate](https://leetcode.com/submissions/detail/769941432/) | [Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.201-300/217.Contains_Duplicate/src/Solution.java) | Easy |
 |53|[Maximum Subarray](https://leetcode.com/submissions/detail/769956523/) | [Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/53.Maximum_Subarray/src/Solution.java) | Medium |
 |1|[Two Sum](https://leetcode.com/submissions/detail/769956914/)| [Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/1.Two_Sum/src/Solution.java) | Easy |
@@ -23,4 +23,7 @@
 |206|[Reverse Linked List](https://leetcode.com/submissions/detail/775627179/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.201-300/206.ReverseLinkedList/src/Solution.java), [Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.201-300/206.ReverseLinkedList/src/Solution1.java) | Easy |
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/submissions/detail/774962577/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/83.RemoveDuplicatesfromSortedList/src/Solution.java), [Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/83.RemoveDuplicatesfromSortedList/src/Solution1.java) | Easy |
 |20|[Valid Parentheses](https://leetcode.com/submissions/detail/776809895/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/20.ValidParentheses/src/Solution.java) | Easy |
-|
+|232|[Implement Queue using Stacks](https://leetcode.com/submissions/detail/777342996/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.201-300/232.ImplementQueueusingStacks/src/MyQueue1.java)| Easy |
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/submissions/detail/777487287/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.101-200/144.BinaryTreePreorderTraversal/src/Solution.java) | Easy |
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/submissions/detail/777515262/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/74.Search_a_2D_Matrix/src/Solution.java), [Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/74.Search_a_2D_Matrix/src/Solution1.java) | Easy |
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/submissions/detail/777578966/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.101-200/145.BinaryTreePostorderTraversal/src/Solution.java) | Easy |
