@@ -41,4 +41,6 @@
 
 
 ### Study Plan - [Data Structure II](https://leetcode.com/study-plan/data-structure/?progress=fv6jie5)
+| # | Title     | Solution     | Difficulty |
+|---| --------- | ------------ | ---------- |
 |136|[Single Number](https://leetcode.com/submissions/detail/803450020/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.201-300/235.LowestCommonAncestorofaBinarySearchTree/src/Solution.java)| Easy |
