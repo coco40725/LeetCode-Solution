@@ -38,3 +38,7 @@
 |98|[Validate Binary Search Tree](https://leetcode.com/submissions/detail/801913909/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/98.ValidateBinarySearchTree/src/Solution.java)| Medium |
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/submissions/detail/803435217/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.601-700/653.TwoSumIVInputisaBST/src/Solution.java), [Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.601-700/653.TwoSumIVInputisaBST/src/Solution1.java)| Easy |
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/submissions/detail/771734313/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.201-300/235.LowestCommonAncestorofaBinarySearchTree/src/Solution.java)| Medium |
+
+
+### Study Plan - [Data Structure II](https://leetcode.com/study-plan/data-structure/?progress=fv6jie5)
+|136|[Single Number](https://leetcode.com/submissions/detail/803450020/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.201-300/235.LowestCommonAncestorofaBinarySearchTree/src/Solution.java)| Easy |
