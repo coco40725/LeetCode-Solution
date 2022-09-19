@@ -37,12 +37,14 @@
       <module fileurl="file://$PROJECT_DIR$/No.301-400/387.FirstUniqueCharacterinaString/387.FirstUniqueCharacterinaString.iml" filepath="$PROJECT_DIR$/No.301-400/387.FirstUniqueCharacterinaString/387.FirstUniqueCharacterinaString.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.401-500/451.SortCharactersByFrequency/451.SortCharactersByFrequency.iml" filepath="$PROJECT_DIR$/No.401-500/451.SortCharactersByFrequency/451.SortCharactersByFrequency.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.1-100/53.Maximum_Subarray/53.Maximum_Subarray.iml" filepath="$PROJECT_DIR$/No.1-100/53.Maximum_Subarray/53.Maximum_Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No.1-100/56.MergeIntervals/56.MergeIntervals.iml" filepath="$PROJECT_DIR$/No.1-100/56.MergeIntervals/56.MergeIntervals.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.501-600/566.Reshape_the_Matrix/566.Reshape_the_Matrix.iml" filepath="$PROJECT_DIR$/No.501-600/566.Reshape_the_Matrix/566.Reshape_the_Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.601-700/653.TwoSumIVInputisaBST/653.TwoSumIVInputisaBST.iml" filepath="$PROJECT_DIR$/No.601-700/653.TwoSumIVInputisaBST/653.TwoSumIVInputisaBST.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.601-700/692.TopKFrequencyWords/692.TopKFrequencyWords.iml" filepath="$PROJECT_DIR$/No.601-700/692.TopKFrequencyWords/692.TopKFrequencyWords.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.601-700/700.SearchinaBinarySearchTree/700.SearchinaBinarySearchTree.iml" filepath="$PROJECT_DIR$/No.601-700/700.SearchinaBinarySearchTree/700.SearchinaBinarySearchTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.701-800/701.InsertintoaBinarySearchTree/701.InsertintoaBinarySearchTree.iml" filepath="$PROJECT_DIR$/No.701-800/701.InsertintoaBinarySearchTree/701.InsertintoaBinarySearchTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.1-100/74.Search_a_2D_Matrix/74.Search_a_2D_Matrix.iml" filepath="$PROJECT_DIR$/No.1-100/74.Search_a_2D_Matrix/74.Search_a_2D_Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No.1-100/75.SortColors/75.SortColors.iml" filepath="$PROJECT_DIR$/No.1-100/75.SortColors/75.SortColors.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.1-100/83.RemoveDuplicatesfromSortedList/83.RemoveDuplicatesfromSortedList.iml" filepath="$PROJECT_DIR$/No.1-100/83.RemoveDuplicatesfromSortedList/83.RemoveDuplicatesfromSortedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.1-100/88.MergeSortedArray/88.MergeSortedArray.iml" filepath="$PROJECT_DIR$/No.1-100/88.MergeSortedArray/88.MergeSortedArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.1-100/94.BinaryTreeInorderTraversal/94.BinaryTreeInorderTraversal.iml" filepath="$PROJECT_DIR$/No.1-100/94.BinaryTreeInorderTraversal/94.BinaryTreeInorderTraversal.iml" />
