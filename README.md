@@ -2,7 +2,11 @@
 
 #### [My Leetcode profile](https://leetcode.com/AmyChang/)
 
+
 ### Study Plan - [Data Structure I](https://leetcode.com/study-plan/data-structure/?progress=fv6jie5)
+
+<details>
+
 | # | Title     | Solution     | Difficulty | Related Topics |
 |---| --------- | ------------ | ---------- | -------------- |
 |217|[Contains Duplicate](https://leetcode.com/submissions/detail/769941432/) | [Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.201-300/217.Contains_Duplicate/src/Solution.java) | Easy | Array, Hash Table, Sorting |
@@ -38,15 +42,19 @@
 |98|[Validate Binary Search Tree](https://leetcode.com/submissions/detail/801913909/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/98.ValidateBinarySearchTree/src/Solution.java)| Medium | Tree, Depth-First-Search, Breadth-First-Search, Binary Tree |
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/submissions/detail/803435217/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.601-700/653.TwoSumIVInputisaBST/src/Solution.java), [Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.601-700/653.TwoSumIVInputisaBST/src/Solution1.java)| Easy | Hash Table, Two Pointers, Tree, Depth-First-Search, Breadth-First-Search, Binary Search Tree, Binary Tree |
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/submissions/detail/771734313/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.201-300/235.LowestCommonAncestorofaBinarySearchTree/src/Solution.java)| Medium | Tree, Depth-First-Search, Breadth-First-Search, Binary Tree |
+</details>
 
 ---
 
 ### Study Plan - [Data Structure II](https://leetcode.com/study-plan/data-structure/?progress=fv6jie5)
+<details>
+
 | # | Title     | Solution     | Difficulty | Related Topics |
 |---| --------- | ------------ | ---------- | -------------- |
 |136|[Single Number](https://leetcode.com/submissions/detail/803450020/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.101-200/136.SingleNumber/src/Solution.java)| Easy | Array, BitManipulation |
 |169|[Majority Element](https://leetcode.com/submissions/detail/759646967/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.101-200/169.MajorityNum/src/Solution.java)| Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 |15|[3Sum](https://leetcode.com/submissions/detail/758906999/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/15.3Sum/src/Solution.java)| Medium | Array, Two Pointers, Sorting |
+</details>
 
 ---
 
