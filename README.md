@@ -54,6 +54,11 @@
 |136|[Single Number](https://leetcode.com/submissions/detail/803450020/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.101-200/136.SingleNumber/src/Solution.java)| Easy | Array, BitManipulation |
 |169|[Majority Element](https://leetcode.com/submissions/detail/759646967/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.101-200/169.MajorityNum/src/Solution.java)| Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 |15|[3Sum](https://leetcode.com/submissions/detail/758906999/) |[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/15.3Sum/src/Solution.java)| Medium | Array, Two Pointers, Sorting |
+|75|[Sort Colors](https://leetcode.com/submissions/detail/803473915/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/75.SortColors/src/Solution.java), [Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/75.SortColors/src/Solution1.java)| Medium |Array, Two Pointers, Sorting |
+|56|[Merge Intervals](https://leetcode.com/submissions/detail/819027596/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/56.MergeIntervals/src/Solution.java)| Medium |Array, Sorting |
+|706|[Design HashMap](https://leetcode.com/submissions/detail/819044288/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.701-800/_706.DesignHashMap/src/MyHashMap.java)| Easy |Array, Hash Table, Linked List, Design, Hash Function |
+|119|[Pascal's Triangle II](https://leetcode.com/submissions/detail/819091200/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.101-200/_119.PascalsTriangleII/src/Solution.java)| Easy |Array, Dynamic Programming | 
+|48|[Rotate Image](https://leetcode.com/submissions/detail/819134920/)|[Java](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1-100/_48.Rotate%20Image/src/Solution.java)| Medium |Array, Math, Matrix | 
 </details>
 
 ---
