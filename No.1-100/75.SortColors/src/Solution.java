@@ -6,12 +6,12 @@ import java.util.Arrays;
  * @create 2022-09-19-下午 02:35
  */
 public class Solution {
-//    public static void main(String[] args) {
-//        int[] num = new int[]{0,2,2,1,0,0,2,1};
-//        Solution sol = new Solution();
-//        sol.sortColors(num);
-//        System.out.println(Arrays.toString(num));
-//    }
+    public static void main(String[] args) {
+        int[] num = new int[]{0,2,2,1,0,0,2,1};
+        Solution sol = new Solution();
+        sol.sortColors(num);
+        System.out.println(Arrays.toString(num));
+    }
 
     public void sortColors(int[] nums) {
         // bubble sorting
