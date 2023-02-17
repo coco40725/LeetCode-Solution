@@ -10,8 +10,8 @@ public class Solution1 {
         while(head != null){
             // reverse
             ListNode tmp = head.next.next; // record the next next value
-            head.next.next = head;
-            head.next = tmp;
+            head.next.next = head; // head.next 其下一個指針 指向前一個: head
+            head.next = tmp; // head 的指針指向最後一個: tmp
 
             // update head
             head = head.next;

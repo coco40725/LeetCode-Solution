@@ -51,12 +51,21 @@
       <module fileurl="file://$PROJECT_DIR$/No.1-100/98.ValidateBinarySearchTree/98.ValidateBinarySearchTree.iml" filepath="$PROJECT_DIR$/No.1-100/98.ValidateBinarySearchTree/98.ValidateBinarySearchTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.101-200/_119.PascalsTriangleII/_119.PascalsTriangleII.iml" filepath="$PROJECT_DIR$/No.101-200/_119.PascalsTriangleII/_119.PascalsTriangleII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No.101-200/_142. Linked List Cycle II/_142. Linked List Cycle II.iml" filepath="$PROJECT_DIR$/No.101-200/_142. Linked List Cycle II/_142. Linked List Cycle II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No.1401-1500/_1480. Running Sum of 1d Array/_1480. Running Sum of 1d Array.iml" filepath="$PROJECT_DIR$/No.1401-1500/_1480. Running Sum of 1d Array/_1480. Running Sum of 1d Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No.1-100/_2. Add Two Numbers/_2. Add Two Numbers.iml" filepath="$PROJECT_DIR$/No.1-100/_2. Add Two Numbers/_2. Add Two Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.201-300/_240.Search_a _2D_Matrix_II/_240.Search_a _2D_Matrix_II.iml" filepath="$PROJECT_DIR$/No.201-300/_240.Search_a _2D_Matrix_II/_240.Search_a _2D_Matrix_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.301-400/_334.IncreasingTripletSubsequence/_334.IncreasingTripletSubsequence.iml" filepath="$PROJECT_DIR$/No.301-400/_334.IncreasingTripletSubsequence/_334.IncreasingTripletSubsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No.301-400/_392. Is Subsequence/_392. Is Subsequence.iml" filepath="$PROJECT_DIR$/No.301-400/_392. Is Subsequence/_392. Is Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No.401-500/_409. Longest Palindrome/_409. Longest Palindrome.iml" filepath="$PROJECT_DIR$/No.401-500/_409. Longest Palindrome/_409. Longest Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.401-500/_435.Non-overlappingIntervals/_435.Non-overlappingIntervals.iml" filepath="$PROJECT_DIR$/No.401-500/_435.Non-overlappingIntervals/_435.Non-overlappingIntervals.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.1-100/_48.Rotate Image/_48.Rotate Image.iml" filepath="$PROJECT_DIR$/No.1-100/_48.Rotate Image/_48.Rotate Image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No.501-600/_589. N-ary Tree Preorder Traversal/_589. N-ary Tree Preorder Traversal.iml" filepath="$PROJECT_DIR$/No.501-600/_589. N-ary Tree Preorder Traversal/_589. N-ary Tree Preorder Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.1-100/_59.Spiral Matrix II/_59.Spiral Matrix II.iml" filepath="$PROJECT_DIR$/No.1-100/_59.Spiral Matrix II/_59.Spiral Matrix II.iml" />
       <module fileurl="file://$PROJECT_DIR$/No.701-800/_706.DesignHashMap/_706.DesignHashMap.iml" filepath="$PROJECT_DIR$/No.701-800/_706.DesignHashMap/_706.DesignHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No.701-800/_724. Find Pivot Index/_724. Find Pivot Index.iml" filepath="$PROJECT_DIR$/No.701-800/_724. Find Pivot Index/_724. Find Pivot Index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No. 801-900/_876. Middle of the Linked List/_876. Middle of the Linked List.iml" filepath="$PROJECT_DIR$/No. 801-900/_876. Middle of the Linked List/_876. Middle of the Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myTest/myTest.iml" filepath="$PROJECT_DIR$/myTest/myTest.iml" />
     </modules>
   </component>
 </project>
