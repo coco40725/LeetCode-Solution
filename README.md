@@ -63,3 +63,13 @@
 
 ---
 
+### Study Plan - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
+<details>
+
+| # | Title     | Solution     | Difficulty | Related Topics |
+|---| --------- | ------------ | ---------- | -------------- |
+|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/submissions/968750718/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1701-1800/1768.%20Merge_Strings_Alternately/kotlin/Solution.kt)| Easy | Two Pointers, String |
+|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/968767643/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/tree/master/No.1001-1100/1071.Greatest_Common_Divisor_of_Strings/kotlin)| Easy | Math, String |
+
+---
+
