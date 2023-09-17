@@ -6,6 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/3Sum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/No.1001-1100/1071.Greatest_Common_Divisor_of_Strings/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/No.1701-1800/1768. Merge_Strings_Alternately/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.1401-1500/1431.Kids_With_the_Greatest_Number_of_Candies/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.601-700/605.Can Place Flowers/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.101-200/151. Reverse Words in a String/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.201-300/238. Product of Array Except Self/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.301-400/345.Reverse Vowels of a String/kotlin" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
