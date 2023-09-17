@@ -66,10 +66,16 @@
 ### Study Plan - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
 <details>
 
-| # | Title     | Solution     | Difficulty | Related Topics |
-|---| --------- | ------------ | ---------- | -------------- |
-|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/submissions/968750718/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1701-1800/1768.%20Merge_Strings_Alternately/kotlin/Solution.kt)| Easy | Two Pointers, String |
-|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/968767643/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/tree/master/No.1001-1100/1071.Greatest_Common_Divisor_of_Strings/kotlin)| Easy | Math, String |
+| #    | Title     | Solution     | Difficulty | Related Topics       |
+|------| --------- | ------------ |------------|----------------------|
+| 1768 |[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/submissions/968750718/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1701-1800/1768.%20Merge_Strings_Alternately/kotlin/Solution.kt)| Easy       | Two Pointers, String |
+| 1071 |[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/968767643/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/tree/master/No.1001-1100/1071.Greatest_Common_Divisor_of_Strings/kotlin)| Easy       | Math, String         |
+| 1431 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/blob/master/No.1401-1500/1431.Kids_With_the_Greatest_Number_of_Candies/kotlin/Solution.kt)| Easy       | Array                |
+| 605  |[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/blob/master/No.601-700/605.Can%20Place%20Flowers/kotlin/Solution.kt)| Easy       | Array, Greedy        |
+| 345  |[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/blob/master/No.301-400/345.Reverse%20Vowels%20of%20a%20String/kotlin/Solution.kt)| Easy       | String, Two Pointers |
+| 151  |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/blob/master/No.101-200/151.%20Reverse%20Words%20in%20a%20String/kotlin/Solution.kt)| Medium     | String, Two Pointers |
+| 238  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75) |[Kotlin](https://github.com/coco40725/Leetcode-Solution/blob/master/No.201-300/238.%20Product%20of%20Array%20Except%20Self/kotlin/Solution.kt)| Medium     | Array, Prefix Sum  |
+
 
 ---
 
