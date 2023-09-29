@@ -11,6 +11,13 @@
       <sourceFolder url="file://$MODULE_DIR$/No.101-200/151. Reverse Words in a String/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/No.201-300/238. Product of Array Except Self/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/No.301-400/345.Reverse Vowels of a String/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.301-400/334. Increasing Triplet Subsequence/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.201-300/283.Move Zeroes/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.401-500/443. String Compression/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.1-100/11. Container With Most Water/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.1601-1700/1679. Max Number of K-Sum Pairs/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.1401-1500/1456. Maximum Number of Vowels in a Substring of Given Length/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.601-700/643. Maximum Average Subarray I/kotlin" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
