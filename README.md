@@ -1,7 +1,7 @@
 # Leetcode-Solution for Algorithm
 
 #### [My Leetcode profile](https://leetcode.com/AmyChang/)
-
+#### [My Leetcode Notion](https://aquamarine-papyrus-593.notion.site/47966e36e9ed4b0c90829b34bbb1d416?v=832ab08167494d8c927200d4ff3d6ac6)
 
 ### Study Plan - [Data Structure I](https://leetcode.com/study-plan/data-structure/?progress=fv6jie5)
 
