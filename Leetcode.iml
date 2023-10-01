@@ -18,6 +18,11 @@
       <sourceFolder url="file://$MODULE_DIR$/No.1601-1700/1679. Max Number of K-Sum Pairs/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/No.1401-1500/1456. Maximum Number of Vowels in a Substring of Given Length/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/No.601-700/643. Maximum Average Subarray I/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.1001-1100/1004. Max Consecutive Ones III/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.1201-1300/1207. Unique Number of Occurrences/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.1401-1500/1493. Longest Subarray of 1's After Deleting One Element/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.1701-1800/1732. Find the Highest Altitude/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/No.2201-2300/2215. Find the Difference of Two Arrays/kotlin" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
